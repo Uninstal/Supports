@@ -1,0 +1,7 @@
+name: SupportMode
+main: org.uninstal.supportmode.Main
+version: 1.0
+commands:
+  mod:
+    description: Change staff-mode
+    aliases: [moder]

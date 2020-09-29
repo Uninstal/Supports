@@ -1,0 +1,3 @@
+permissions:
+  - 'essentials.vanish'
+  - 'essentials.gamemode.spectator'
